@@ -1,4 +1,3 @@
-// Textos em português e inglês
 const translations = {
     'pt': {
         // Navbar
@@ -7,18 +6,18 @@ const translations = {
         'habilidades': 'Habilidades',
         'projetos': 'Projetos',
         'contato': 'Contato',
-        
+
         // Hero Section
         'hero_greeting': 'Olá, eu sou',
-        'hero_subtitle': 'Desenvolvedor Full Stack especializado em Python',
-        'hero_description': 'Estudante de Tecnologia em Sistemas para Internet com foco em desenvolvimento Python, criando soluções inovadoras e sistemas eficientes.',
+        'hero_subtitle': 'Desenvolvedor Full Stack com foco em Python',
+        'hero_description': 'Estudante de Sistemas para Internet, desenvolvendo soluções práticas com Python e tecnologias modernas.',
         'ver_projetos': 'Ver Projetos',
         'contato_btn': 'Contato',
-        
+
         // About Section
         'sobre_titulo': 'Sobre Mim',
-        'sobre_texto1': 'Sou um desenvolvedor apaixonado por tecnologia com 20 anos, atualmente cursando Tecnologia em Sistemas para Internet. Tenho experiência em diversas linguagens e frameworks, com foco especial em Python.',
-        'sobre_texto2': 'Atuo como estagiário de T.I na prefeitura de Fernandópolis, onde desenvolvo relatórios e faço manutenção de banco de dados. Minha jornada inclui projetos voluntários e trabalhos freelancer que me permitiram crescer profissionalmente.',
+        'sobre_texto1': 'Tenho 20 anos e atualmente curso Sistemas para Internet. Trabalho com desenvolvimento desde 2021, com foco em projetos práticos usando Python.',
+        'sobre_texto2': 'Atuo como estagiário de T.I na prefeitura de Fernandópolis, criando relatórios e mantendo bancos de dados. Já participei de freelas e projetos pessoais que ampliaram minha experiência.',
         'formacao': 'Formação',
         'formacao1_titulo': 'Tecnólogo em Sistemas para Internet',
         'formacao1_desc': 'Fatec Jales - 2023-2025',
@@ -26,23 +25,23 @@ const translations = {
         'formacao2_desc': 'Etec Prof. Armando José Farinazzo - 2021-2022',
         'formacao3_titulo': 'Técnico em Administração',
         'formacao3_desc': 'Etec Prof. Armando José Farinazzo - 2021-2022',
-        
+
         // Skills Section
         'habilidades_titulo': 'Habilidades',
         'linguagens': 'Linguagens',
         'frameworks': 'Frameworks & Bibliotecas',
         'ferramentas': 'Ferramentas & Tecnologias',
-        
+
         // Projects Section
         'projetos_titulo': 'Projetos',
         'projeto1_titulo': 'Sistema Financeiro',
-        'projeto1_desc': 'Sistema financeiro independente em HTML com histórico de entradas e despesas por mês/ano. Dados salvos localmente.',
+        'projeto1_desc': 'Controle financeiro em HTML que salva os dados no próprio arquivo. Registros por mês e ano.',
         'projeto2_titulo': 'YouTube Downloader',
-        'projeto2_desc': 'Aplicação para download de vídeos e músicas do YouTube em várias qualidades, com opções de conversão de áudio.',
+        'projeto2_desc': 'App para baixar vídeos e áudios do YouTube, com opções de conversão embutidas.',
         'projeto3_titulo': 'UbeProf',
-        'projeto3_desc': 'Sistema tipo "Uber" para conectar professores e alunos, priorizando conhecimento prático com sistema de localização.',
+        'projeto3_desc': 'Plataforma para conectar professores e alunos via geolocalização. Foco em aulas práticas.',
         'codigo': 'Código',
-        
+
         // Contact Section
         'contato_titulo': 'Contato',
         'email': 'Email',
@@ -50,10 +49,11 @@ const translations = {
         'localizacao': 'Localização',
         'localizacao_desc': 'Fernandópolis, SP - Brasil',
         'conecte_se': 'Conecte-se comigo',
-        
+
         // Footer
         'footer_text': '© 2025 João Paulo Maria de Alvarenga. Todos os direitos reservados.'
     },
+
     'en': {
         // Navbar
         'inicio': 'Home',
@@ -61,18 +61,18 @@ const translations = {
         'habilidades': 'Skills',
         'projetos': 'Projects',
         'contato': 'Contact',
-        
+
         // Hero Section
-        'hero_greeting': 'Hello, I am',
-        'hero_subtitle': 'Full Stack Developer specialized in Python',
-        'hero_description': 'Internet Systems Technology student focused on Python development, creating innovative solutions and efficient systems.',
+        'hero_greeting': 'Hello, I’m',
+        'hero_subtitle': 'Full Stack Developer with focus on Python',
+        'hero_description': 'Internet Systems Technology student building practical solutions with Python and modern tools.',
         'ver_projetos': 'View Projects',
         'contato_btn': 'Contact',
-        
+
         // About Section
         'sobre_titulo': 'About Me',
-        'sobre_texto1': 'I am a 20-year-old technology-passionate developer, currently studying Internet Systems Technology. I have experience in various languages and frameworks, with special focus on Python.',
-        'sobre_texto2': 'I work as an IT intern at Fernandópolis city hall, where I develop reports and maintain database systems. My journey includes volunteer projects and freelance work that allowed me to grow professionally.',
+        'sobre_texto1': 'I’m 20 years old and currently studying Internet Systems Technology. I’ve worked with various languages and tools, mainly using Python.',
+        'sobre_texto2': 'Currently interning in IT at Fernandópolis city hall, developing reports and maintaining databases. I’ve also done freelance and personal projects to gain real-world experience.',
         'formacao': 'Education',
         'formacao1_titulo': 'Technology in Internet Systems',
         'formacao1_desc': 'Fatec Jales - 2023-2025',
@@ -80,23 +80,23 @@ const translations = {
         'formacao2_desc': 'Etec Prof. Armando José Farinazzo - 2021-2022',
         'formacao3_titulo': 'Technical in Administration',
         'formacao3_desc': 'Etec Prof. Armando José Farinazzo - 2021-2022',
-        
+
         // Skills Section
         'habilidades_titulo': 'Skills',
         'linguagens': 'Languages',
         'frameworks': 'Frameworks & Libraries',
         'ferramentas': 'Tools & Technologies',
-        
+
         // Projects Section
         'projetos_titulo': 'Projects',
         'projeto1_titulo': 'Financial System',
-        'projeto1_desc': 'Independent HTML financial system with income and expense history by month/year. Data saved locally.',
+        'projeto1_desc': 'Standalone HTML tool to track income and expenses by month/year. Saves data in the file itself.',
         'projeto2_titulo': 'YouTube Downloader',
-        'projeto2_desc': 'Application for downloading YouTube videos and music in various qualities, with audio conversion options.',
+        'projeto2_desc': 'App to download YouTube videos and audio with built-in format conversion.',
         'projeto3_titulo': 'UbeProf',
-        'projeto3_desc': 'Uber-like system to connect teachers and students, prioritizing practical knowledge with location system.',
+        'projeto3_desc': 'Platform that connects teachers and students using geolocation. Focused on practical learning.',
         'codigo': 'Code',
-        
+
         // Contact Section
         'contato_titulo': 'Contact',
         'email': 'Email',
@@ -104,7 +104,7 @@ const translations = {
         'localizacao': 'Location',
         'localizacao_desc': 'Fernandópolis, SP - Brazil',
         'conecte_se': 'Connect with me',
-        
+
         // Footer
         'footer_text': '© 2025 João Paulo Maria de Alvarenga. All rights reserved.'
     }
