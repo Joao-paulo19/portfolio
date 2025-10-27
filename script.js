@@ -9,15 +9,15 @@ const translations = {
 
         // Hero Section
         'hero_greeting': 'Olá, eu sou',
-        'hero_subtitle': 'Desenvolvedor Full Stack com foco em Python',
-        'hero_description': 'Estudante de Sistemas para Internet, desenvolvendo soluções práticas com Python e tecnologias modernas.',
+        'hero_subtitle': 'Desenvolvedor Backend com foco em Java/Spring', // ATUALIZADO
+        'hero_description': 'Estudante de Tecnologia em Sistemas para Internet e Desenvolvedor Backend com especialidade em Java/Spring. Atualmente em busca de novas oportunidades e focado em projetos pessoais.', // ATUALIZADO
         'ver_projetos': 'Ver Projetos',
         'contato_btn': 'Contato',
 
         // About Section
         'sobre_titulo': 'Sobre Mim',
-        'sobre_texto1': 'Tenho 20 anos e atualmente curso Sistemas para Internet. Trabalho com desenvolvimento desde 2021, com foco em projetos práticos usando Python.',
-        'sobre_texto2': 'Atuo como estagiário de T.I na prefeitura de Fernandópolis, criando relatórios e mantendo bancos de dados. Já participei de freelas e projetos pessoais que ampliaram minha experiência.',
+        'sobre_texto1': 'Tenho 21 anos e atualmente curso Sistemas para Internet. Trabalho com desenvolvimento desde 2021, com conhecimento aprofundado em APIs RESTful usando Java Spring Boot.', // ATUALIZADO
+        'sobre_texto2': 'Atualmente estou em busca de novas oportunidades (CLT, PJ, ou Freelance) e me dedicando a projetos pessoais (especialmente com Python, HTML, CSS e JavaScript), além de trabalhos voluntários e freelas para ganhar experiência.', // ATUALIZADO
         'formacao': 'Formação',
         'formacao1_titulo': 'Tecnólogo em Sistemas para Internet',
         'formacao1_desc': 'Fatec Jales - 2023-2025',
@@ -64,15 +64,15 @@ const translations = {
 
         // Hero Section
         'hero_greeting': 'Hello, I’m',
-        'hero_subtitle': 'Full Stack Developer with focus on Python',
-        'hero_description': 'Internet Systems Technology student building practical solutions with Python and modern tools.',
+        'hero_subtitle': 'Backend Developer with focus on Java/Spring', // ATUALIZADO
+        'hero_description': 'Student of Internet Systems Technology and a Backend Developer specializing in Java/Spring. Currently seeking new opportunities and building personal projects.', // ATUALIZADO
         'ver_projetos': 'View Projects',
         'contato_btn': 'Contact',
 
         // About Section
         'sobre_titulo': 'About Me',
-        'sobre_texto1': 'I’m 20 years old and currently studying Internet Systems Technology. I’ve worked with various languages and tools, mainly using Python.',
-        'sobre_texto2': 'Currently interning in IT at Fernandópolis city hall, developing reports and maintaining databases. I’ve also done freelance and personal projects to gain real-world experience.',
+        'sobre_texto1': 'I’m 21 years old and currently studying Internet Systems Technology. I’ve been working with development since 2021, with a deep knowledge of building RESTful APIs using Java Spring Boot.', // ATUALIZADO
+        'sobre_texto2': 'I am currently seeking new opportunities (full-time, part-time, or freelance) and dedicating myself to personal projects (especially with Python, HTML, CSS, and JavaScript), as well as freelance and volunteer work to gain experience.', // ATUALIZADO
         'formacao': 'Education',
         'formacao1_titulo': 'Technology in Internet Systems',
         'formacao1_desc': 'Fatec Jales - 2023-2025',
